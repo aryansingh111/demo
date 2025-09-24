@@ -36,4 +36,5 @@ int main()
     two t1;
     t1.display();
     cout<<"Hello";
+    cout<<"new";
 }
